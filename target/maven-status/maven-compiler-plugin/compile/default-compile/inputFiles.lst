@@ -1,25 +1,45 @@
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\repository\ProductoRepository.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\controller\ProductoController.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\CrudApplication.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\entity\UsuarioPrincipal.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\dto\JwtDto.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\service\UserDetailsServiceImpl.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\dto\NuevoUsuario.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\dto\Mensaje.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\repository\RolRepository.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\service\UsuarioService.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\service\ProductoService.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\util\CreateRoles.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\dto\ProductoDto.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\entity\Producto.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\entity\Usuario.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\controller\AuthController.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\enums\RolNombre.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\service\RolService.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\jwt\JwtProvider.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\repository\UsuarioRepository.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\jwt\JwtTokenFilter.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\MainSecurity.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\jwt\JwtEntryPoint.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\entity\Rol.java
-D:\Raul\tutorial_jwt_BACK-master\src\main\java\com\tutorial\crud\security\dto\LoginUsuario.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\dto\HssDto.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\dto\JwtDto.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\controller\ExLaboralController.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\entity\Usuario.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\dto\EducacionDto.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\service\UsuarioService.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\dto\personadto.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\dto\LoginUsuario.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\jwt\JwtEntryPoint.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\service\EducacionService.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\entity\Hss.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\util\CreateRoles.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\repository\UsuarioRepository.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\dto\NuevoUsuario.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\MainSecurity.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\dto\Mensaje.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\dto\ProyectosDto.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\jwt\JwtTokenFilter.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\repository\ProyectosRepository.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\entity\UsuarioPrincipal.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\controller\AuthController.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\entity\Educacion.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\entity\Proyectos.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\service\HssService.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\entity\persona.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\enums\RolNombre.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\repository\RolRepository.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\service\ProyectosService.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\jwt\JwtProvider.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\controller\EducacionController.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\controller\persona_controller.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\dto\ExLaboralDto.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\CrudApplication.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\repository\HssRepository.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\entity\Rol.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\entity\ExLaboral.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\service\ExLaboralService.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\controller\ProyectosController.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\service\RolService.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\controller\HssController.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\repository\persona_repository.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\repository\EducacionRepository.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\security\service\UserDetailsServiceImpl.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\repository\ExLaboralRepository.java
+D:\Trabajo freelancer\Nueva carpeta (2)\Backend-master\src\main\java\com\tutorial\crud\service\personaservice.java
